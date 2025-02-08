@@ -23,57 +23,62 @@ Organisation des slides:
 ## Besoins du projet, cahier des charges
 - Slide 6: Enjeux du client
 - Slide 7: problématiques
-- Slide 8: besoins identifiés et objectis
+- Slide 8: besoins identifiés et objectifs
 - Slide 9: personas
 
 ## Gestion du projet
 - Slide 10: Organisation du projet total
-- Slide 11: mes rôlesc et repponsabilité
+- Slide 11: mes rôles et repponsabilités
 - Slide 12: méthode Agile
 - Slide 13: étapes du projet
 - Slide 14: présentation du Jira
 
 ## La conception
 - Slide 15: Listes des livrables
-- Slide 16-18: Modélisation Merise:
-  -16: MCD
-  -17: MLD
-  -18: MPD
-- Slide 19: Dictionnaire de données
--Slide 20: Diagrammes UML:
-  - 20: use case
-  - 21 -22: classe(ensemble-détail)
-  - 23: séquence
-- Slide 24: benchmarks
-- Slide 25: tech stack choisie
-- Slide 26: stratégie globale de sécurisation
-- Slide 27-28: Maquettes:
-  - 27: Wireframe
-  - 28: Maquette
+- Slide 16: benchmarks
+- Slide 17: tech stack choisie
+- Slide 18: Architecture n-tiers
+- Slide 19-21: Modélisation Merise:
+  -19: MCD
+  -20: MLD
+  -21: MPD
+- Slide 22: Dictionnaire de données
+-Slide 23-28: Diagrammes UML:
+  - 24: use case
+  - 25-27: classe(ensemble-détail)
+  - 28: séquence
+- Slide 29: stratégie globale de sécurisation
+- Slide 30-31: Maquettes:
+  - 30: Wireframe
+  - 31: Maquette
 
 ## La partie développement
-- Slide 29: Configuration de l’environnement de travail
-- Slide 30: Mise en place du dépôt et des branches
-- Slide 31: Interfaces utilisateur
-- Slide 32: stratégie de sécurisation du front-end
-- Slide 33: Composants métiers
-- Slide 34: stratégie de sécurisation de l'API
-- Slide 35: Composants d’accès aux données
-- Slide 36: stratégie de sécurisation de la base de données
-- Slide 37: Point RGPD
+- Slide 32: Configuration de l’environnement de travail
+- Slide 33: Mise en place du dépôt et des branches
+- Slide 34-35: Interfaces utilisateur (responsive-accessibilité-code-W3C)
+- Slide 36: stratégie de sécurisation du front-end
+- Slide 37: Composants métiers
+- Slide 38: stratégie de sécurisation de l'API
+- Slide 39: Composants d’accès aux données
+- Slide 40: stratégie de sécurisation de la base de données
+- Slide 41: Point RGPD
 
 ## La partie déploiement (5 slides)
-- Slide 39: DevOps
-  -39: Docker
-  -40: CI/CID
-
--Slide 41- Plan de tests
-  -42: pyramide des test
-  -43: Tests unitaires
-  -44: Tests d’intégration
-  -45: Tests end-to-end
+- Slide 42-43: DevOps
+  - 42: Docker
+  - 43: CI/CID
+- Slides 44-45: Documentation
+  - 44: Documentation à l'attention des techs
+  - 45: Documentation à l'attention des non techs(step by step des fonctionnalités principales)
+- Slide 46-49: Plan de tests
+  - 46: pyramide des test
+  - 47: Tests unitaires
+  - 48: Tests d’intégration
+  - 49: Tests end-to-end
 
 ## Démo de l’application
-- Slide 46: couverture démo 
+- Slide 50: couverture démo 
 
-- Slide 47: Remerciements
+## Conclusion
+- Slide 51: conslusion générale
+- Slide 52: Remerciements et questions
